@@ -2,6 +2,9 @@
 
 This is exapmle of Next.js + Express + Typescript archetecture.
 
+## Test Tools  
+* ts-jest
+
 ## Other Tools  
 * eslint
 * prettier
