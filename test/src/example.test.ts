@@ -1,4 +1,7 @@
-const sum = (a: number, b: number): number => a + b;
+/**
+ * This is example module for example.test.ts
+ */
+import { sum } from '../../src/common/sum';
 
 test('adds 1 + 2 to equal 3', () => {
     const result = sum(1, 2);
