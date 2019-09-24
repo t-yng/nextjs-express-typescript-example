@@ -7,3 +7,4 @@ This is exapmle of Next.js + Express + Typescript archetecture.
 * prettier
 * ts-node
 * nodemon
+* storybook
